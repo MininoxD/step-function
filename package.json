@@ -1,6 +1,6 @@
 {
   "name": "step-function",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Allows you to orchestrate functions as a series of steps in a workflow",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
